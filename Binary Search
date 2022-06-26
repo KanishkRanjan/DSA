@@ -1,4 +1,7 @@
 https://www.geeksforgeeks.org/binary-search/
+
+VVIP: int mid = low + (high – low)/2;
+
 Examples: 
 
     Input: arr[] = {10, 20, 30, 50, 60, 80, 110, 130, 140, 170}, x = 110
